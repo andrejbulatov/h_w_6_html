@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.main {
+  margin-bottom: 96px;
+}
+
+.header {
+  padding-top: 40px;
+  padding-bottom: 84px;
+}
+
+.menu {
+  padding-top: 11px;
+  padding-bottom: 12px;
+}
+
+.main__content {
+  margin-bottom: 163px;
+}
+
+.subtitle {
+  margin-top: 17px;
+}
+
+.main__buttons {
+  margin-top: 37px;
+}
+
+.watch__video {
+  margin-top: 15px;
+  margin-bottom: 16px;
+}
+
+.footer {
+  margin-top: 97px;
+}
